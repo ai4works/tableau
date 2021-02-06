@@ -1,0 +1,44 @@
+OrderDate,Region,Rep,Item,Units,Unit Price
+28-Feb-19,East,Ankur,Pen Set,62,4.99
+08-Mar-19,East,Nikhil,Binder,29,1.99
+17-Mar-19,Central,Morgan,Pen Set,55,12.49
+25-Mar-19,East,Susan,Binder,81,19.99
+03-Apr-19,Central,Matthew,Pen Set,42,23.95
+11-Apr-19,East,Ankur,Pencil,35,4.99
+20-Apr-19,West,James,Desk,3,275
+28-Apr-19,Central,Smith,Desk,2,125
+07-May-19,Central,Gaurav,Pencil,7,1.29
+15-May-19,East,Ankur,Pen Set,16,15.99
+24-May-19,West,James,Pen,76,1.99
+01-Jun-19,Central,Morgan,Binder,28,8.99
+10-Jun-19,West,Thomas,Binder,57,19.99
+18-Jun-19,East,Ankur,Pen,64,8.99
+27-Jun-19,Central,Rachel,Pencil,14,1.29
+05-Jul-19,East,Susan,Pen,15,19.99
+14-Jul-19,Central,Alex,Binder,11,4.99
+22-Jul-19,Central,Matthew,Pen Set,96,4.99
+31-Jul-19,Central,Alex,Binder,94,19.99
+08-Aug-19,Central,Smith,Pencil,67,1.29
+17-Aug-19,Central,Rachel,Binder,28,4.99
+25-Aug-19,East,Susan,Pen Set,74,15.99
+02-Sep-19,East,Ankur,Pencil,95,1.99
+11-Sep-19,Central,Gaurav,Binder,46,8.99
+19-Sep-19,Central,Matthew,Binder,50,19.99
+28-Sep-19,Central,Smith,Binder,87,15
+06-Oct-19,Central,Alex,Pencil,36,4.99
+15-Oct-19,East,Ankur,Binder,4,4.99
+23-Oct-19,Central,Gaurav,Pen,27,19.99
+01-Nov-19,West,James,Binder,7,19.99
+09-Nov-19,West,James,Pencil,56,2.99
+18-Nov-19,Central,Alex,Pen Set,50,4.99
+26-Nov-19,East,Ankur,Binder,60,4.99
+05-Dec-19,Central,Rachel,Pencil,66,1.99
+13-Dec-19,Central,Rachel,Pencil,75,1.99
+22-Dec-19,East,Nikhil,Pen,96,4.99
+30-Dec-19,Central,Alex,Pencil,90,4.99
+08-Jan-20,Central,Gaurav,Pencil,53,1.29
+16-Jan-20,West,Thomas,Pencil,32,1.99
+25-Jan-20,Central,Gaurav,Binder,80,8.99
+02-Feb-20,East,Ankur,Binder,60,8.99
+11-Feb-20,Central,Matthew,Desk,5,125
+19-Feb-20,Central,Morgan,Pencil,90,4.99
